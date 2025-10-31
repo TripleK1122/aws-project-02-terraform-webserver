@@ -61,9 +61,9 @@ sudo nano wp-config.php
 Update database credentials:
 
 PHP
-define( 'DB_NAME', 'assgdb' );
-define( 'DB_USER', 'admin' );
-define( 'DB_PASSWORD', 'Kos123321' );
+define( 'DB_NAME', '-----' );
+define( 'DB_USER', '----' );
+define( 'DB_PASSWORD', '-----' );
 define( 'DB_HOST', '<rds_endpoint>' );
 Restart Apache:
 
